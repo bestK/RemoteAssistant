@@ -1,0 +1,9 @@
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeAllMask"
+    android:accessibilityFeedbackType="feedbackAllMask"
+    android:accessibilityFlags="flagDefault|flagRetrieveInteractiveWindows|flagIncludeNotImportantViews"
+    android:canRetrieveWindowContent ="true"
+    canPerformGestures="true"
+    android:description="@string/service_description"
+    android:notificationTimeout="100"
+    android:settingsActivity="com.github.bestk.ra.MainActivity"/>

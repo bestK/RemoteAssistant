@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RemoteAssistant</string>
+    <string name="service_description">开启无障碍</string>
+    <string name="accessibilityService">无障碍服务</string>
+    <string name="accessibilitySwitch">无障碍服务开关</string>
+    <string name="host_list">host列表</string>
+    <string name="input_new_host">专线网络</string>
+    <string name="tip">请输入专线网络</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="add">新增</string>
+</resources>
